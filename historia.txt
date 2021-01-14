@@ -6,9 +6,5 @@ por lo que debo explotar al maximo mis capacidades
 es genial decir pero es más interesante ver y actuar. 
 Ahora si empecemos, a hacer esta historia más interesante.
 
-<<<<<<< HEAD
-Master 2
-=======
 Experimento 1
 Experimento 2
->>>>>>> 2e08f73 (Exp 2)
